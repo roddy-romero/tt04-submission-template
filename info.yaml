@@ -1,7 +1,7 @@
 --- 
 # TinyTapeout project information
 project:
-  wokwi_id:    370047379689573377        # If using wokwi, set this to your project's ID
+  wokwi_id:    370066651757118465        # If using wokwi, set this to your project's ID
 
 # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. 
 # Source files must be in ./src and you must list each source file separately
@@ -36,22 +36,22 @@ documentation:
 
 # A description of what the inputs do (e.g. red button, SPI CLK, SPI MOSI, etc).
   inputs:               
-    - A
-    - B
+    - A0
+    - A1
+    - B0
+    - B1
     - Cin
-    - none
-    - none
     - none
     - none
     - none
 # A description of what the outputs do (e.g. status LED, SPI MISO, etc)
   outputs:
-    - S
+    - S0
+    - S1
+    - none
+    - none
+    - none
     - Cout
-    - none
-    - none
-    - none
-    - none
     - none
     - none
 # A description of what the bidirectional I/O pins do (e.g. I2C SDA, I2C SCL, etc)
