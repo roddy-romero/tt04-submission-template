@@ -1,23 +1,9 @@
-![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
-
-# What is Tiny Tapeout?
-
-TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip!
-
-Go to https://tinytapeout.com for instructions!
-
-![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
-
-# What is Tiny Tapeout?
-
-TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip!
-
 ## Project Randomizer and Status Checker
 link github: https://github.com/karla-gabrielly/tt04-Randomizer-and-status-checker
 
 language: "wokwi"
 
-wokwi_id: 375075618467202049
+wokwi_id: 375164405010853889
 
 ## How does it works?
 General Description: The circuit is a random number generator, that will turn on a random LED between LED 1 and LED 4. Then, the player should press the button with the number corresponding to the LED that is on, and the circuit will say if it is the RIGHT or WRONG button. The button 0 will make the circuit restart, generating another random number.
