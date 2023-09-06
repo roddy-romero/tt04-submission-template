@@ -1,6 +1,6 @@
 --- 
 # TinyTapeout project information
-project: Randomizer and Status Checker
+project:
   wokwi_id:    375075618467202049        # If using wokwi, set this to your project's ID
 
 # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. 
