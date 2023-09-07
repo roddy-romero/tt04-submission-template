@@ -20,9 +20,9 @@ On the outputs, 6 LEDs should be connected.
 To start, the first step is to turn the switch to ON/OFF, and then press BUTTON 0.
 One of the four LEDs will light up.The user should press the button corresponding to the LED that is on. If the correct button is pressed, the RIGHT LED will light up; if another button is pressed, the WRONG LED will light up.
 
-## Picture:
+## Pictures:
+<img src=diagrama-de-blocos.png>
 <img src=Wokwi-circuit.png>
-
 
 ## Inputs:
 
